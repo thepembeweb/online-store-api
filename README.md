@@ -1,6 +1,6 @@
 # Online Store Api
 
-> The Online Store Api demonstrates a Django powered REST Api for a e-commerce app.
+> The Online Store Api demonstrates a Django powered REST Api for an e-commerce app.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
